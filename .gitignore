@@ -22,4 +22,5 @@ target/
 *.bak
 *.swp
 input.json
+output.json
 

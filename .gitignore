@@ -1,0 +1,25 @@
+# .gitignore
+# ... default gitignore ...
+
+# Operating System Files
+*.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Build and dependency directories
+target/
+
+# Environment files
+
+# IDE specific files
+*.idea/
+
+# Miscellaneous
+*.bak
+*.swp
+*.json
+
